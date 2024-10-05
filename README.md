@@ -1,1 +1,1 @@
-# HosseinWorkTime
+# HosseinWorkTimebash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.sh)
